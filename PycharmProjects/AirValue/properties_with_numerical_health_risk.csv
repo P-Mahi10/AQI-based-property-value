@@ -1,0 +1,51 @@
+id,name,price,area,location,AQI,Scaled Devaluation,Adjusted Price,Health Risk
+1,"Sunshine Paradise, Banashankari","₹18,100,000",2825 sqft,Banashankari,210,₹293.43/sqft,"₹17,271,048",9.8
+2,"Prestige Homes, Banashankari","₹18,600,000",1770 sqft,Banashankari,210,₹293.43/sqft,"₹18,080,621",9.8
+3,"Royal Heights, Banashankari","₹13,400,000",3095 sqft,Banashankari,210,₹293.43/sqft,"₹12,491,820",9.8
+4,"Luxury Paradise, Banashankari","₹18,000,000",1720 sqft,Banashankari,210,₹293.43/sqft,"₹17,495,293",9.8
+5,"Sunshine Residency, Banashankari","₹17,600,000",2202 sqft,Banashankari,210,₹293.43/sqft,"₹16,953,857",9.8
+6,"Greenview Residency, Electronic City","₹12,400,000",1669 sqft,Electronic City,243,₹299.49/sqft,"₹11,900,156",10.0
+7,"Elite Paradise, Electronic City","₹11,800,000",2387 sqft,Electronic City,243,₹299.49/sqft,"₹11,085,125",10.0
+8,"Greenview Villas, Electronic City","₹17,900,000",2743 sqft,Electronic City,243,₹299.49/sqft,"₹17,078,507",10.0
+9,"Skyline Villas, Electronic City","₹11,600,000",1820 sqft,Electronic City,243,₹299.49/sqft,"₹11,054,934",10.0
+10,"Luxury Towers, Electronic City","₹19,900,000",2695 sqft,Electronic City,243,₹299.49/sqft,"₹19,092,883",10.0
+11,"Royal Paradise, HSR Layout","₹11,600,000",1972 sqft,HSR Layout,176,₹258.75/sqft,"₹11,089,739",8.64
+12,"Sunshine Enclave, HSR Layout","₹16,600,000",1722 sqft,HSR Layout,176,₹258.75/sqft,"₹16,154,427",8.64
+13,"Greenview Residency, HSR Layout","₹17,400,000",1479 sqft,HSR Layout,176,₹258.75/sqft,"₹17,017,304",8.64
+14,"Luxury Villas, HSR Layout","₹9,200,000",2301 sqft,HSR Layout,176,₹258.75/sqft,"₹8,604,609",8.64
+15,"Skyline Residency, HSR Layout","₹15,200,000",2820 sqft,HSR Layout,176,₹258.75/sqft,"₹14,470,316",8.64
+16,"Sunshine Homes, Indiranagar","₹13,600,000",2040 sqft,Indiranagar,182,₹254.77/sqft,"₹13,080,268",8.51
+17,"Prestige Enclave, Indiranagar","₹14,200,000",1849 sqft,Indiranagar,182,₹254.77/sqft,"₹13,728,929",8.51
+18,"Skyline Paradise, Indiranagar","₹9,200,000",2370 sqft,Indiranagar,182,₹254.77/sqft,"₹8,596,194",8.51
+19,"Prestige Residency, Indiranagar","₹10,300,000",2505 sqft,Indiranagar,182,₹254.77/sqft,"₹9,661,800",8.51
+20,"Sunshine Homes, Indiranagar","₹17,000,000",2604 sqft,Indiranagar,182,₹254.77/sqft,"₹16,336,578",8.51
+21,"Luxury Paradise, Jayanagar","₹11,500,000",2256 sqft,Jayanagar,126,₹166.31/sqft,"₹11,124,798",5.55
+22,"Skyline Towers, Jayanagar","₹8,200,000",1839 sqft,Jayanagar,126,₹166.31/sqft,"₹7,894,150",5.55
+23,"Royal Apartments, Jayanagar","₹11,800,000",2629 sqft,Jayanagar,126,₹166.31/sqft,"₹11,362,763",5.55
+24,"Luxury Paradise, Jayanagar","₹18,100,000",2962 sqft,Jayanagar,126,₹166.31/sqft,"₹17,607,381",5.55
+25,"Luxury Homes, Jayanagar","₹15,300,000",3020 sqft,Jayanagar,126,₹166.31/sqft,"₹14,797,734",5.55
+26,"Royal Heights, Koramangala","₹19,100,000",1995 sqft,Koramangala,110,₹162.47/sqft,"₹18,775,870",5.42
+27,"Luxury Apartments, Koramangala","₹10,800,000",1811 sqft,Koramangala,110,₹162.47/sqft,"₹10,505,765",5.42
+28,"Prestige Heights, Koramangala","₹13,100,000",1746 sqft,Koramangala,110,₹162.47/sqft,"₹12,816,325",5.42
+29,"Elite Residency, Koramangala","₹9,100,000",2517 sqft,Koramangala,110,₹162.47/sqft,"₹8,691,060",5.42
+30,"Prestige Heights, Koramangala","₹11,700,000",3170 sqft,Koramangala,110,₹162.47/sqft,"₹11,184,966",5.42
+31,"Royal Residency, Malleshwaram","₹18,800,000",2444 sqft,Malleshwaram,66,₹68.52/sqft,"₹18,632,542",2.29
+32,"Royal Residency, Malleshwaram","₹17,700,000",1681 sqft,Malleshwaram,66,₹68.52/sqft,"₹17,584,822",2.29
+33,"Greenview Enclave, Malleshwaram","₹19,800,000",2876 sqft,Malleshwaram,66,₹68.52/sqft,"₹19,602,943",2.29
+34,"Prestige Villas, Malleshwaram","₹13,300,000",2185 sqft,Malleshwaram,66,₹68.52/sqft,"₹13,150,289",2.29
+35,"Skyline Paradise, Malleshwaram","₹14,300,000",2307 sqft,Malleshwaram,66,₹68.52/sqft,"₹14,141,929",2.29
+36,"Luxury Towers, Marathahalli","₹9,500,000",1693 sqft,Marathahalli,89,₹74.01/sqft,"₹9,374,700",2.47
+37,"Skyline Towers, Marathahalli","₹18,000,000",2297 sqft,Marathahalli,89,₹74.01/sqft,"₹17,829,997",2.47
+38,"Prestige Heights, Marathahalli","₹11,100,000",2098 sqft,Marathahalli,89,₹74.01/sqft,"₹10,944,725",2.47
+39,"Greenview Enclave, Marathahalli","₹9,000,000",2129 sqft,Marathahalli,89,₹74.01/sqft,"₹8,842,431",2.47
+40,"Greenview Villas, Marathahalli","₹15,700,000",3103 sqft,Marathahalli,89,₹74.01/sqft,"₹15,470,344",2.47
+41,"Greenview Villas, Rajajinagar","₹13,200,000",2141 sqft,Rajajinagar,30,₹0.00/sqft,"₹13,200,000",0.0
+42,"Skyline Paradise, Rajajinagar","₹13,500,000",3001 sqft,Rajajinagar,30,₹0.00/sqft,"₹13,500,000",0.0
+43,"Prestige Paradise, Rajajinagar","₹10,400,000",2264 sqft,Rajajinagar,30,₹0.00/sqft,"₹10,400,000",0.0
+44,"Sunshine Homes, Rajajinagar","₹18,300,000",2560 sqft,Rajajinagar,30,₹0.00/sqft,"₹18,300,000",0.0
+45,"Luxury Villas, Rajajinagar","₹12,600,000",1586 sqft,Rajajinagar,30,₹0.00/sqft,"₹12,600,000",0.0
+46,"Sunshine Apartments, Whitefield","₹19,600,000",2433 sqft,Whitefield,42,₹0.00/sqft,"₹19,600,000",0.0
+47,"Luxury Towers, Whitefield","₹8,300,000",2531 sqft,Whitefield,42,₹0.00/sqft,"₹8,300,000",0.0
+48,"Elite Heights, Whitefield","₹18,000,000",1519 sqft,Whitefield,42,₹0.00/sqft,"₹18,000,000",0.0
+49,"Skyline Paradise, Whitefield","₹12,100,000",1489 sqft,Whitefield,42,₹0.00/sqft,"₹12,100,000",0.0
+50,"Skyline Paradise, Whitefield","₹10,900,000",1567 sqft,Whitefield,42,₹0.00/sqft,"₹10,900,000",0.0
