@@ -1,0 +1,117 @@
+.discovery-container{
+  background-color: #C1D8C3;
+  padding-top: 1px;
+  margin-top: 1px;
+}
+
+.title1{
+  font-family: 'Merriweather', serif;
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.filters {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  justify-content: center;
+  align-items: center; /* Aligns items properly */
+}
+
+.filters input {
+  padding: 10px;
+  width: 350px; /* Increased width */
+  font-size: 16px;
+  background-color: #FBF8EF;
+}
+
+.filters select {
+  padding: 8px;
+  width: 180px; /* Reduced width */
+  font-size: 14px;
+  cursor: pointer;
+  background-color: #FBF8EF;
+}
+
+.filters button {
+  padding: 8px 12px;
+  font-size: 14px;
+  cursor: pointer;
+  background-color: #FBF8EF;
+  color:black;
+}
+
+.table-container {
+  max-height: 550px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 5px; /* Slight rounding for better UI */
+}
+
+.property-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.property-table th,
+.property-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+.property-table th {
+  background-color: #3a7d44;
+  color:#fff;
+  font-weight: bold;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+.property-table tr{
+  background-color: #FBF8EF;
+}
+
+.property-table tbody tr:hover {
+  background-color: #3a7d44; /* Slightly Brighter Green */
+  transform: translateY(-2px);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+  font-weight: bold;
+  color:white;
+  transition: 3ms;
+  cursor: pointer;
+}
+
+/* Nature-Themed Button */
+.nature-btn {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.nature-btn:hover {
+  background-color: #3a7d44; /* Slightly Brighter Green */
+  transform: translateY(-2px);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.nature-btn:active {
+  background-color: #1e4d1e; /* Darker Green for Click Effect */
+  transform: translateY(1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Disabled Button */
+.nature-btn:disabled {
+  background-color: #a8c69f; /* Muted Green */
+  cursor: not-allowed;
+  box-shadow:none;
+}

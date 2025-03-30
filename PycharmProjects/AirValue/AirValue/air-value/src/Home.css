@@ -1,0 +1,71 @@
+/* Full-screen layout */
+.home-container {
+    display: flex;
+    height: 100vh; /* Full viewport height */
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Left Section - Company Name */
+  .left-section {
+    flex: 1; /* Takes up half the screen */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #222; /* Dark background */
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  /* Company Name */
+.company-name {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 0; /* Adds space below the header */
+  }
+  
+  /* Tagline Below Header */
+  .company-tagline {
+    font-size: 1.2rem;
+    font-weight: 300;
+    margin-top: 0px;
+    color: #ccc; /* Light gray text */
+    max-width: 80%;
+  }
+  
+  /* Right Section - Buttons */
+  .right-section {
+    flex: 1; /* Takes up half the screen */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FBF8EF;; /* Light gray background */
+  }
+  
+  /* Buttons Styling */
+  .home-button {
+    width: 200px;
+    padding: 12px;
+    margin: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    background-color: #3a7d44; /* Blue color */
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .home-button:hover {
+    transition: 3ms;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+    background-color: #3a7d44; /* Darker blue */
+  }
+
+
+  
