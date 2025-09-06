@@ -1,0 +1,79 @@
+location,scaled_devaluation,health_risk,aqi,industry_count,populationPerArea,footfall,traffic_volume,free_gov_land_acres,greenery_sqft,Recommendation_1,Recommendation_2,Recommendation_3,Recommendation_4,Recommendation_5
+Banashankari,293.43,9.8,210,8,7303,10524,8070,50.0,80,"⚠ The air quality in this area is hazardous. Long-term exposure can lead to severe health issues.
+Authorities should focus on emission control measures, increasing urban greenery, and stricter regulations.
+Residents can help by reducing personal vehicle use and adopting cleaner energy sources.
+Consider using air purifiers indoors and staying indoors during peak pollution hours.
+Community-driven tree-planting programs can significantly improve air quality over time.","🏭 Industrial pollution is a key contributor to poor air quality in this area.
+Stricter emission controls and cleaner production methods should be mandated.
+Buffer zones with dense greenery should be created around industrial areas.
+Residents can advocate for sustainability policies and support environmentally friendly businesses.
+Air quality monitoring and public awareness campaigns should be reinforced.","🚗 Traffic congestion leads to high vehicular emissions, worsening air pollution.
+Encouraging public transport, cycling, and carpooling can ease congestion.
+Expanding pedestrian-friendly zones and incentivizing electric vehicles can significantly help.
+Implementing congestion pricing and traffic management strategies is crucial.
+Residents should opt for cleaner transport alternatives whenever possible.","🌳 High foot traffic areas need better urban planning to combat pollution.
+Introducing green corridors and urban forests can greatly improve air quality.
+Encouraging businesses to adopt green facades and install air-purifying plants is beneficial.
+Setting up mist-based air purification systems in public spaces can reduce airborne pollutants.
+Residents can participate in maintaining green spaces and keeping public areas clean.","🌿 Green cover in this area is insufficient, worsening pollution levels.
+Residents can plant trees in available spaces and create rooftop or balcony gardens.
+Using air-purifying plants at home and workplaces can help improve indoor air quality.
+Advocating for government-led afforestation programs in vacant lands is crucial.
+Joining or forming local environmental groups can lead to impactful community-driven solutions."
+Electronic City,299.49,10.0,243,6,8969,10318,7721,50.0,50,"⚠ The air quality in this area is hazardous. Long-term exposure can lead to severe health issues.
+Authorities should focus on emission control measures, increasing urban greenery, and stricter regulations.
+Residents can help by reducing personal vehicle use and adopting cleaner energy sources.
+Consider using air purifiers indoors and staying indoors during peak pollution hours.
+Community-driven tree-planting programs can significantly improve air quality over time.","🏭 Industrial pollution is a key contributor to poor air quality in this area.
+Stricter emission controls and cleaner production methods should be mandated.
+Buffer zones with dense greenery should be created around industrial areas.
+Residents can advocate for sustainability policies and support environmentally friendly businesses.
+Air quality monitoring and public awareness campaigns should be reinforced.","🚗 Traffic congestion leads to high vehicular emissions, worsening air pollution.
+Encouraging public transport, cycling, and carpooling can ease congestion.
+Expanding pedestrian-friendly zones and incentivizing electric vehicles can significantly help.
+Implementing congestion pricing and traffic management strategies is crucial.
+Residents should opt for cleaner transport alternatives whenever possible.","🌳 High foot traffic areas need better urban planning to combat pollution.
+Introducing green corridors and urban forests can greatly improve air quality.
+Encouraging businesses to adopt green facades and install air-purifying plants is beneficial.
+Setting up mist-based air purification systems in public spaces can reduce airborne pollutants.
+Residents can participate in maintaining green spaces and keeping public areas clean.","🌿 Green cover in this area is insufficient, worsening pollution levels.
+Residents can plant trees in available spaces and create rooftop or balcony gardens.
+Using air-purifying plants at home and workplaces can help improve indoor air quality.
+Advocating for government-led afforestation programs in vacant lands is crucial.
+Joining or forming local environmental groups can lead to impactful community-driven solutions."
+HSR Layout,258.75,8.64,176,10,4332,7606,6908,66.8,148,"⚠ The air quality in this area is hazardous. Long-term exposure can lead to severe health issues.
+Authorities should focus on emission control measures, increasing urban greenery, and stricter regulations.
+Residents can help by reducing personal vehicle use and adopting cleaner energy sources.
+Consider using air purifiers indoors and staying indoors during peak pollution hours.
+Community-driven tree-planting programs can significantly improve air quality over time.","🏭 Industrial pollution is a key contributor to poor air quality in this area.
+Stricter emission controls and cleaner production methods should be mandated.
+Buffer zones with dense greenery should be created around industrial areas.
+Residents can advocate for sustainability policies and support environmentally friendly businesses.
+Air quality monitoring and public awareness campaigns should be reinforced.",,,
+Indiranagar,254.77,8.51,182,6,7455,8204,6572,50.0,136,"⚠ The air quality in this area is hazardous. Long-term exposure can lead to severe health issues.
+Authorities should focus on emission control measures, increasing urban greenery, and stricter regulations.
+Residents can help by reducing personal vehicle use and adopting cleaner energy sources.
+Consider using air purifiers indoors and staying indoors during peak pollution hours.
+Community-driven tree-planting programs can significantly improve air quality over time.","🏭 Industrial pollution is a key contributor to poor air quality in this area.
+Stricter emission controls and cleaner production methods should be mandated.
+Buffer zones with dense greenery should be created around industrial areas.
+Residents can advocate for sustainability policies and support environmentally friendly businesses.
+Air quality monitoring and public awareness campaigns should be reinforced.","🌳 High foot traffic areas need better urban planning to combat pollution.
+Introducing green corridors and urban forests can greatly improve air quality.
+Encouraging businesses to adopt green facades and install air-purifying plants is beneficial.
+Setting up mist-based air purification systems in public spaces can reduce airborne pollutants.
+Residents can participate in maintaining green spaces and keeping public areas clean.","🏙 High population density means increased pollution risks and exposure.
+Enforcing green mandates in construction projects can improve overall air quality.
+Community-driven urban forestry and environmental awareness programs should be promoted.
+Encouraging waste segregation and proper disposal reduces pollution-related hazards.
+If these measures are followed, AQI could improve by approximately 55%.",
+Jayanagar,166.31,5.55,126,3,3012,2953,2683,548.8,248,,,,,
+Koramangala,162.47,5.42,110,7,3527,4967,4792,297.3,280,"🏭 Industrial pollution is a key contributor to poor air quality in this area.
+Stricter emission controls and cleaner production methods should be mandated.
+Buffer zones with dense greenery should be created around industrial areas.
+Residents can advocate for sustainability policies and support environmentally friendly businesses.
+Air quality monitoring and public awareness campaigns should be reinforced.",,,,
+Malleshwaram,68.52,2.29,66,4,1772,2757,2657,622.8,368,,,,,
+Marathahalli,74.01,2.47,89,3,3375,2655,2637,512.5,322,,,,,
+Rajajinagar,0.0,0.0,30,1,2812,1633,1515,668.8,440,,,,,
+Whitefield,0.0,0.0,42,1,3824,2127,1915,567.6,416,,,,,

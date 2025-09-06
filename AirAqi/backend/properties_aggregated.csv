@@ -1,0 +1,11 @@
+location,scaled_devaluation,health_risk,aqi,industry_count,populationPerArea,footfall,traffic_volume,free_gov_land_acres,greenery_sqft
+Banashankari,293.43,9.8,210,8,7303,10524,8070,50,80
+Electronic City,299.49,10,243,6,8969,10318,7721,50,50
+HSR Layout,258.75,8.64,176,10,4332,7606,6908,66.8,148
+Indiranagar,254.77,8.51,182,6,7455,8204,6572,50,136
+Jayanagar,166.31,5.55,126,3,3012,2953,2683,548.8,248
+Koramangala,162.47,5.42,110,7,3527,4967,4792,297.3,280
+Malleshwaram,68.52,2.29,66,4,1772,2757,2657,622.8,368
+Marathahalli,74.01,2.47,89,3,3375,2655,2637,512.5,322
+Rajajinagar,0,0,30,1,2812,1633,1515,668.8,440
+Whitefield,0,0,42,1,3824,2127,1915,567.6,416
